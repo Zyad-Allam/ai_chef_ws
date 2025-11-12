@@ -1,10 +1,12 @@
 from flask import Blueprint, request, jsonify
 from werkzeug.wrappers import response
 from config.logging import logger
+from services.ai_chef import AIChef
 import time
 
 
 bp = Blueprint("asking", __name__)
+ai_chef = AIChef()
 
 
 @bp.route("/", methods=["POST"])
@@ -50,7 +52,7 @@ def ask():
             response["data"]["processing_time_ms"] = duration_ms
 
         logger.info(
-            f"Teaching {action} processed successfully in {duration_ms}ms",
+            f"User {action} action processed successfully in {duration_ms}ms",
         )
 
         return jsonify(response), 200
@@ -67,3 +69,7 @@ def _handle_ask(data: dict) -> dict:
         if field not in data:
             logger.error(f"Missing required field for 'ask' action {field}")
             return {"ok": False, "error": f"Missing required field: {field}"}
+
+    query = data["query"]
+    result = ai_chef.generate_recipe(query)
+    return result

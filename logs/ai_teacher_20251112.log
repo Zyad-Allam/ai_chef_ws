@@ -1,0 +1,23 @@
+2025-11-12 08:35:16,447 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:35:16,746 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:35:16,753 - werkzeug - WARNING -  * Debugger is active!
+2025-11-12 08:40:53,826 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:40:53,833 - werkzeug - WARNING -  * Debugger is active!
+2025-11-12 08:43:59,610 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:43:59,617 - werkzeug - WARNING -  * Debugger is active!
+2025-11-12 08:45:30,175 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:45:30,181 - werkzeug - WARNING -  * Debugger is active!
+2025-11-12 08:45:53,595 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:45:53,602 - werkzeug - WARNING -  * Debugger is active!
+2025-11-12 08:52:12,115 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:52:12,122 - werkzeug - WARNING -  * Debugger is active!
+2025-11-12 08:52:44,922 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 08:52:44,929 - werkzeug - WARNING -  * Debugger is active!
+2025-11-12 08:54:45,443 - ai_teacher - INFO - received request with action ask from user: 123
+2025-11-12 08:54:45,444 - ai_teacher - INFO - determining action: ask
+2025-11-12 08:54:52,950 - ai_teacher - INFO - Teaching ask processed successfully in 7505ms
+2025-11-12 09:00:08,602 - ai_teacher - INFO - received request with action ask from user: 123
+2025-11-12 09:00:08,602 - ai_teacher - INFO - determining action: ask
+2025-11-12 09:00:14,932 - ai_teacher - INFO - Teaching ask processed successfully in 6330ms
+2025-11-12 09:05:16,405 - ai_teacher - INFO - Starting AI Chef server on port 5000
+2025-11-12 09:05:16,412 - werkzeug - WARNING -  * Debugger is active!

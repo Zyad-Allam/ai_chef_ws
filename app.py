@@ -2,6 +2,7 @@ from elasticsearch import Elasticsearch
 from flask import Flask, jsonify, request
 from config.logging import logger
 from config.settings import settings
+from routes import ask_routes
 
 app = Flask(__name__)
 es = Elasticsearch("http://localhost:9200")
@@ -13,6 +14,9 @@ def create_app():
     app = Flask(__name__)
 
     # Configure Flask settings
+
+    # routes used for chef meal request #
+    app.register_blueprint(ask_routes.bp, url_prefix="/ask")
 
     # Health check endpoint
     @app.route("/health")
@@ -60,7 +64,7 @@ if __name__ == "__main__":
     # Display live indicator
 
     # Start server
-    logger.info(f"Starting AI Teacher server on port {settings.port}")
+    logger.info(f"Starting AI Chef server on port {settings.port}")
     app.run(
         host="0.0.0.0", port=settings.port, debug=(settings.flask_env == "development")
     )
