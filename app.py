@@ -1,11 +1,9 @@
-from elasticsearch import Elasticsearch
 from flask import Flask, jsonify, request
 from config.logging import logger
 from config.settings import settings
 from routes import ask_routes
 
 app = Flask(__name__)
-es = Elasticsearch("http://localhost:9200")
 
 
 def create_app():
