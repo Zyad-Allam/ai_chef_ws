@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 def setup_logging():
-    """Configure logging for the AI Teacher application"""
+    """Configure logging for the AI Chef application"""
 
     # Create logs directory if it doesn't exist
     log_dir = Path("logs")
@@ -17,7 +17,7 @@ def setup_logging():
         format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
         handlers=[
             logging.FileHandler(
-                log_dir / f"ai_teacher_{datetime.now().strftime('%Y%m%d')}.log"
+                log_dir / f"ai_chef_{datetime.now().strftime('%Y%m%d')}.log"
             ),
             logging.StreamHandler(sys.stdout),
         ],
@@ -34,7 +34,7 @@ def setup_logging():
     logging.getLogger("werkzeug").setLevel(logging.WARNING)  # Flask server logs
 
     # Application logger
-    logger = logging.getLogger("ai_teacher")
+    logger = logging.getLogger("ai_chef")
     logger.setLevel(logging.INFO)
 
     return logger

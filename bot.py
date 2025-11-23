@@ -30,7 +30,17 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         )
 
     api_response = response.json()
-    await update.message.reply_text(str(api_response))
+    await update.message.reply_text(format_recipe(api_response))
+
+
+def format_recipe(response):
+    recipe = response["recipe"]
+    meal = recipe["meal"]
+    steps = recipe["steps"]
+
+    text = f"🍽 **{meal}**\n\n"
+    text += "\n".join(f"{i}. {step}" for i, step in enumerate(steps, 1))
+    return text
 
 
 def main():

@@ -1,0 +1,26 @@
+2025-11-23 13:41:04,981 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-23 13:41:05,313 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-23 13:41:05,318 - werkzeug - WARNING -  * Debugger is active!
+2025-11-23 14:02:13,881 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-23 14:02:13,886 - werkzeug - WARNING -  * Debugger is active!
+2025-11-23 14:02:23,753 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-23 14:02:23,753 - ai_chef - INFO - determining action: ask
+2025-11-23 14:02:31,079 - ai_chef - INFO - User ask action processed successfully in 7325ms
+2025-11-23 14:03:09,630 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-23 14:03:09,635 - werkzeug - WARNING -  * Debugger is active!
+2025-11-23 14:03:35,281 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-23 14:03:35,281 - ai_chef - INFO - determining action: ask
+2025-11-23 14:03:41,101 - ai_chef - INFO - User ask action processed successfully in 5819ms
+2025-11-23 14:06:00,179 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-23 14:06:00,179 - ai_chef - INFO - determining action: ask
+2025-11-23 14:06:04,473 - ai_chef - INFO - User ask action processed successfully in 4293ms
+2025-11-23 14:08:15,886 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-23 14:08:15,891 - werkzeug - WARNING -  * Debugger is active!
+2025-11-23 14:08:52,623 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-23 14:08:52,624 - ai_chef - INFO - determining action: ask
+2025-11-23 14:08:58,360 - ai_chef - INFO - User ask action processed successfully in 5736ms
+2025-11-23 14:14:49,601 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-23 14:14:49,606 - werkzeug - WARNING -  * Debugger is active!
+2025-11-23 14:15:14,370 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-23 14:15:14,370 - ai_chef - INFO - determining action: ask
+2025-11-23 14:15:18,771 - ai_chef - INFO - User ask action processed successfully in 4400ms
