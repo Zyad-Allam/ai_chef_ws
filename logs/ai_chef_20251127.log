@@ -1,0 +1,231 @@
+2025-11-27 08:33:28,173 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 08:33:28,582 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 08:33:28,588 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:17:45,589 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:17:45,995 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:17:46,001 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:17:57,772 - ai_chef - INFO - Streaming recipes : 0
+2025-11-27 11:18:51,641 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:18:51,642 - ai_chef - INFO - determining action: ask
+2025-11-27 11:18:55,321 - ai_chef - INFO - User ask action processed successfully in 3678ms
+2025-11-27 11:19:14,691 - ai_chef - INFO - Streaming recipes : 0
+2025-11-27 11:19:36,360 - ai_chef - INFO - Streaming recipes : 0
+2025-11-27 11:23:11,280 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:23:11,293 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:23:19,985 - ai_chef - INFO - Streaming recipes : 0
+2025-11-27 11:23:33,890 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:23:33,891 - ai_chef - INFO - determining action: ask
+2025-11-27 11:23:38,705 - ai_chef - ERROR - Asking endpoint error: 'data'
+2025-11-27 11:29:27,411 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:29:27,412 - ai_chef - INFO - determining action: ask
+2025-11-27 11:29:31,054 - ai_chef - ERROR - Asking endpoint error: 'data'
+2025-11-27 11:30:02,758 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:30:02,768 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:30:19,508 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:30:19,509 - ai_chef - INFO - determining action: ask
+2025-11-27 11:30:25,302 - ai_chef - INFO - User ask action processed successfully in 5793ms
+2025-11-27 11:31:25,860 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:31:25,867 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:31:36,314 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:31:36,315 - ai_chef - INFO - determining action: ask
+2025-11-27 11:31:41,560 - ai_chef - INFO - Adding recipe to tickets : {'ok': True, 'recipe': {'meal': 'Fried Rice', 'steps': ['Cook rice according to package instructions and let it cool.', 'Heat oil in a large skillet or wok over medium-high heat.', 'Add chopped vegetables (like carrots, peas, and bell peppers) and sauté for a few minutes.', 'Push the vegetables to the side of the skillet and add beaten eggs, scrambling them until fully cooked.', 'Add the cooled rice to the skillet, mixing it with the vegetables and eggs.', 'Pour soy sauce over the rice and stir well to combine.', 'Season with salt, pepper, and green onions to taste.', 'Cook for a few more minutes until everything is heated through.', 'Serve hot.']}}
+2025-11-27 11:31:41,560 - ai_chef - ERROR - Asking endpoint error: 'list' object has no attribute 'length'
+2025-11-27 11:31:59,641 - ai_chef - INFO - Streaming recipes : 0
+2025-11-27 11:32:41,789 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:32:41,797 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:32:54,875 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:32:54,875 - ai_chef - INFO - determining action: ask
+2025-11-27 11:32:59,610 - ai_chef - INFO - Adding recipe to tickets : {'ok': True, 'recipe': {'meal': 'Fish and Chips', 'steps': ['Prepare the fish by filleting and removing any bones.', 'Make a batter by mixing flour, baking powder, salt, and cold water.', 'Dip the fish fillets into the batter to coat them.', 'Heat oil in a deep fryer or large pot to 350°F (175°C).', 'Fry the battered fish in the hot oil until golden brown and cooked through, about 5-7 minutes.', 'Remove the fish and drain on paper towels.', 'Cut potatoes into thick strips to make chips.', 'Fry the potato chips in the same oil until golden and crispy, about 3-5 minutes.', 'Remove the chips and drain on paper towels, seasoning with salt.', 'Serve the fish and chips with tartar sauce and lemon wedges.']}}
+2025-11-27 11:32:59,610 - ai_chef - ERROR - Asking endpoint error: list assignment index out of range
+2025-11-27 11:33:49,760 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:33:49,766 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:34:00,406 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:34:00,406 - ai_chef - INFO - determining action: ask
+2025-11-27 11:34:05,550 - ai_chef - INFO - Adding recipe to tickets : {'ok': True, 'recipe': {'meal': 'Fish and Chips', 'steps': ['Prepare the fish by cleaning and drying it.', 'Make a batter by mixing flour, baking powder, salt, and beer or sparkling water.', 'Dip the fish in the batter until fully coated.', 'Heat oil in a deep fryer or large pot to 350°F (175°C).', 'Carefully lower the battered fish into the hot oil and fry until golden brown, about 4-6 minutes.', 'Remove the fish from the oil and drain on paper towels.', 'Cut potatoes into thick strips and soak in water for 30 minutes.', 'Fry the potato strips in the hot oil until golden and crispy.', 'Remove the chips from the oil and drain on paper towels.', 'Serve the fish with chips and optional tartar sauce and lemon wedges.']}}
+2025-11-27 11:34:05,550 - ai_chef - INFO - Ticket added to queue: 1
+2025-11-27 11:34:05,552 - ai_chef - INFO - User ask action processed successfully in 5143ms
+2025-11-27 11:34:12,507 - ai_chef - INFO - Streaming recipes : 0
+2025-11-27 11:34:58,762 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 11:34:58,768 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 11:35:08,024 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 11:35:08,024 - ai_chef - INFO - determining action: ask
+2025-11-27 11:35:14,066 - ai_chef - INFO - Adding recipe to tickets : {'ok': True, 'recipe': {'meal': 'Churros', 'steps': ['In a pot, combine water, butter, sugar, and salt. Bring to a boil.', 'Remove from heat and stir in flour until a dough forms.', 'Let the dough cool slightly, then add eggs one at a time until fully combined.', 'Transfer the dough to a piping bag fitted with a star tip.', 'Heat oil in a deep pan to 350°F (175°C).', 'Pipe strips of dough into the hot oil, cutting them to desired length.', 'Fry until golden brown, then remove and drain on paper towels.', 'Mix sugar and cinnamon together and coat the warm churros in the mixture.', 'Serve with chocolate sauce for dipping.']}}
+2025-11-27 11:35:14,066 - ai_chef - INFO - Ticket added to queue: 1
+2025-11-27 11:35:14,066 - ai_chef - INFO - User ask action processed successfully in 6042ms
+2025-11-27 11:35:14,066 - ai_chef - INFO - Tickets: [{'ok': True, 'recipe': {'meal': 'Churros', 'steps': ['In a pot, combine water, butter, sugar, and salt. Bring to a boil.', 'Remove from heat and stir in flour until a dough forms.', 'Let the dough cool slightly, then add eggs one at a time until fully combined.', 'Transfer the dough to a piping bag fitted with a star tip.', 'Heat oil in a deep pan to 350°F (175°C).', 'Pipe strips of dough into the hot oil, cutting them to desired length.', 'Fry until golden brown, then remove and drain on paper towels.', 'Mix sugar and cinnamon together and coat the warm churros in the mixture.', 'Serve with chocolate sauce for dipping.']}}]
+2025-11-27 12:22:18,075 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:22:18,088 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:26:45,094 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:26:45,100 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:26:56,606 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:26:56,611 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:29:44,026 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:29:44,032 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:51:33,140 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:51:33,518 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:51:33,524 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:51:49,835 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 12:51:49,835 - ai_chef - INFO - determining action: ask
+2025-11-27 12:51:56,646 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not NoneType
+2025-11-27 12:54:17,378 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:54:17,384 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:54:24,245 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 12:54:24,246 - ai_chef - INFO - determining action: ask
+2025-11-27 12:54:29,033 - ai_chef - INFO - User ask action processed successfully in 4787ms
+2025-11-27 12:54:29,034 - ai_chef - ERROR - Asking endpoint error: name 'tickets' is not defined
+2025-11-27 12:54:58,170 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:54:58,176 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:55:21,744 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:55:21,751 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:55:49,330 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:55:49,336 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:55:55,836 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:55:55,842 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:56:05,759 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 12:56:05,759 - ai_chef - INFO - determining action: ask
+2025-11-27 12:56:11,279 - ai_chef - INFO - User ask action processed successfully in 5520ms
+2025-11-27 12:56:27,533 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:56:27,539 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:56:44,276 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 12:56:44,276 - ai_chef - INFO - determining action: ask
+2025-11-27 12:56:48,337 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not NoneType
+2025-11-27 12:58:01,688 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:58:01,694 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:58:24,519 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 12:58:24,519 - ai_chef - INFO - determining action: ask
+2025-11-27 12:58:30,360 - ai_chef - ERROR - Asking endpoint error: 'dict' object has no attribute 'recipe'
+2025-11-27 12:59:33,033 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 12:59:33,047 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 12:59:39,751 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 12:59:39,751 - ai_chef - INFO - determining action: ask
+2025-11-27 12:59:44,242 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Mushroom Sauce Steak', 'steps': ['Season the steak with salt and pepper on both sides.', 'Heat a skillet over medium-high heat and add olive oil.', 'Sear the steak for 4-5 minutes on each side for medium-rare.', 'Remove the steak from the skillet and let it rest.', 'In the same skillet, add butter and sliced mushrooms.', 'Sauté the mushrooms until they are browned and tender.', 'Add minced garlic and cook for an additional minute.', 'Pour in beef broth and simmer for a few minutes until slightly thickened.', 'Stir in heavy cream and season with salt and pepper to taste.', 'Serve the mushroom sauce over the rested steak.']}}
+2025-11-27 12:59:44,243 - ai_chef - ERROR - Asking endpoint error: 'dict' object has no attribute 'recipe'
+2025-11-27 13:00:59,321 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 13:00:59,334 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 13:01:12,653 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:01:12,653 - ai_chef - INFO - determining action: ask
+2025-11-27 13:01:17,322 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat olive oil and butter in a large pan over medium heat.', 'Add diced onion and garlic; sauté until softened.', 'Add Arborio rice and stir for 1-2 minutes until lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm chicken stock, one ladle at a time, stirring frequently.', 'Once the rice is al dente, add cooked chicken pieces.', 'Stir in grated Parmesan cheese and chopped parsley.', 'Season with salt and pepper to taste.', 'Serve hot, garnished with additional parsley and cheese if desired.']}}
+2025-11-27 13:01:17,322 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not str
+2025-11-27 13:02:04,603 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 13:02:04,617 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 13:02:15,156 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:02:15,156 - ai_chef - INFO - determining action: ask
+2025-11-27 13:02:19,471 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep it warm.', 'In a separate pot, melt butter and add diced onions, cooking until translucent.', 'Add Arborio rice to the pot and toast it for a couple of minutes.', 'Pour in white wine and stir until it has mostly evaporated.', 'Add warmed chicken broth one ladle at a time, stirring frequently until absorbed.', 'Continue adding broth gradually, stirring, until the rice is creamy and al dente.', 'Incorporate cooked chicken pieces and stir until heated through.', 'Finish with grated Parmesan cheese and chopped parsley before serving.']}}
+2025-11-27 13:02:19,471 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not str
+2025-11-27 13:03:00,724 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 13:03:00,737 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 13:03:09,097 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:03:09,097 - ai_chef - INFO - determining action: ask
+2025-11-27 13:03:13,971 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep it warm.', 'In a large skillet, heat olive oil and sauté chopped onions until translucent.', 'Add minced garlic and cook for another minute.', 'Stir in Arborio rice and cook for 1-2 minutes until lightly toasted.', 'Pour in white wine and let it simmer until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring continuously until absorbed.', 'Continue adding broth until the rice is creamy and al dente, about 18-20 minutes.', 'In a separate pan, cook diced chicken until golden and cooked through.', 'Fold the cooked chicken into the risotto.', 'Stir in grated Parmesan cheese and season with salt and pepper.', 'Serve hot, garnished with fresh parsley.']}}
+2025-11-27 13:03:13,971 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not str
+2025-11-27 13:06:16,594 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 13:06:16,599 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 13:06:29,355 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:06:29,356 - ai_chef - INFO - determining action: ask
+2025-11-27 13:06:38,420 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a separate pan, melt butter and sauté diced onions until translucent.', 'Add minced garlic and cook for an additional minute.', 'Stir in Arborio rice and cook for 2-3 minutes until the rice is lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm chicken broth one ladle at a time, stirring constantly until absorbed.', 'Once the rice is creamy and al dente, stir in cooked diced chicken and peas.', 'Add grated Parmesan cheese, salt, and pepper to taste.', 'Remove from heat and let sit for a few minutes before serving.']}}
+2025-11-27 13:06:38,420 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not str
+2025-11-27 13:07:15,775 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 13:07:15,788 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 13:07:24,972 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:07:24,972 - ai_chef - INFO - determining action: ask
+2025-11-27 13:07:33,170 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a large skillet, melt butter over medium heat.', 'Add chopped onions and garlic; sauté until translucent.', 'Add Arborio rice and stir for 1-2 minutes until coated.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring continuously.', 'Cook until rice is al dente, adding broth as needed.', 'Stir in cooked chicken, Parmesan cheese, and season with salt and pepper.', 'Remove from heat and let rest for a few minutes before serving.']}}
+2025-11-27 13:07:33,170 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not str
+2025-11-27 13:09:14,045 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 13:09:14,051 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 13:09:25,676 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:09:25,676 - ai_chef - INFO - determining action: ask
+2025-11-27 13:09:29,315 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['In a large pan, heat olive oil and butter over medium heat.', 'Add diced onions and garlic, sauté until translucent.', 'Add Arborio rice and stir for 1-2 minutes until slightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add chicken broth, one ladle at a time, stirring continuously until absorbed before adding more.', 'In a separate pan, cook diced chicken until fully cooked and golden brown.', 'Once the rice is creamy and al dente, stir in the cooked chicken.', 'Add grated Parmesan cheese and season with salt and pepper to taste.', 'Garnish with fresh parsley and serve hot.']}}
+2025-11-27 13:09:29,316 - ai_chef - ERROR - Asking endpoint error: list indices must be integers or slices, not str
+2025-11-27 13:11:31,790 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 13:11:31,803 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 13:11:46,473 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:11:46,473 - ai_chef - INFO - determining action: ask
+2025-11-27 13:11:51,386 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a large skillet, melt butter and add chopped onion and garlic, sauté until translucent.', 'Add Arborio rice to the skillet, stirring for about 2 minutes until lightly toasted.', 'Pour in white wine and cook until absorbed.', 'Slowly add warm chicken broth, one ladle at a time, stirring frequently until absorbed.', 'Add cooked, diced chicken and continue adding broth until the rice is creamy and al dente.', 'Stir in grated Parmesan cheese and season with salt and pepper to taste.', 'Garnish with fresh parsley before serving.']}}
+2025-11-27 13:11:51,386 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a large skillet, melt butter and add chopped onion and garlic, sauté until translucent.', 'Add Arborio rice to the skillet, stirring for about 2 minutes until lightly toasted.', 'Pour in white wine and cook until absorbed.', 'Slowly add warm chicken broth, one ladle at a time, stirring frequently until absorbed.', 'Add cooked, diced chicken and continue adding broth until the rice is creamy and al dente.', 'Stir in grated Parmesan cheese and season with salt and pepper to taste.', 'Garnish with fresh parsley before serving.']}
+2025-11-27 13:11:51,386 - ai_chef - INFO - User ask action processed successfully in 4912ms
+2025-11-27 13:12:27,140 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:12:27,140 - ai_chef - INFO - determining action: ask
+2025-11-27 13:12:31,487 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Sirloin Steak', 'steps': ['Remove the sirloin steak from the refrigerator and let it come to room temperature for about 30 minutes.', 'Season both sides of the steak generously with salt and pepper.', 'Heat a skillet or grill over high heat until very hot.', 'Add a little oil to the pan or brush it onto the grill grates.', 'Place the steak on the hot skillet or grill and sear for about 4-5 minutes on one side.', 'Flip the steak and cook for another 3-4 minutes for medium-rare, or longer for desired doneness.', 'Use a meat thermometer to check the internal temperature (130°F for medium-rare).', 'Remove the steak from the heat and let it rest for 5-10 minutes before slicing.', 'Slice against the grain and serve.']}}
+2025-11-27 13:12:31,488 - ai_chef - INFO - Recipe added to storage: {'meal': 'Sirloin Steak', 'steps': ['Remove the sirloin steak from the refrigerator and let it come to room temperature for about 30 minutes.', 'Season both sides of the steak generously with salt and pepper.', 'Heat a skillet or grill over high heat until very hot.', 'Add a little oil to the pan or brush it onto the grill grates.', 'Place the steak on the hot skillet or grill and sear for about 4-5 minutes on one side.', 'Flip the steak and cook for another 3-4 minutes for medium-rare, or longer for desired doneness.', 'Use a meat thermometer to check the internal temperature (130°F for medium-rare).', 'Remove the steak from the heat and let it rest for 5-10 minutes before slicing.', 'Slice against the grain and serve.']}
+2025-11-27 13:12:31,488 - ai_chef - INFO - User ask action processed successfully in 4346ms
+2025-11-27 13:52:15,233 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:52:15,234 - ai_chef - INFO - determining action: ask
+2025-11-27 13:52:19,453 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a separate pan, melt butter and sauté chopped onions until translucent.', 'Add Arborio rice to the pan and stir for a couple of minutes until lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring continuously until absorbed before adding more.', 'After about 15 minutes, add cooked chicken pieces to the risotto.', 'Continue adding broth and stirring until the rice is creamy and al dente, about 20-25 minutes total.', 'Stir in grated Parmesan cheese and season with salt and pepper to taste.', 'Remove from heat and let sit for a few minutes before serving.']}}
+2025-11-27 13:52:19,454 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a separate pan, melt butter and sauté chopped onions until translucent.', 'Add Arborio rice to the pan and stir for a couple of minutes until lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring continuously until absorbed before adding more.', 'After about 15 minutes, add cooked chicken pieces to the risotto.', 'Continue adding broth and stirring until the rice is creamy and al dente, about 20-25 minutes total.', 'Stir in grated Parmesan cheese and season with salt and pepper to taste.', 'Remove from heat and let sit for a few minutes before serving.']}
+2025-11-27 13:52:19,454 - ai_chef - INFO - User ask action processed successfully in 4218ms
+2025-11-27 13:52:51,209 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:52:51,209 - ai_chef - INFO - determining action: ask
+2025-11-27 13:52:55,994 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep it warm.', 'In a large skillet, heat olive oil and sauté chopped onions until translucent.', 'Add minced garlic and cook for another minute.', 'Stir in Arborio rice and toast for 2 minutes until slightly translucent.', 'Pour in white wine and stir until absorbed.', 'Add warm chicken broth one ladle at a time, stirring frequently until absorbed.', 'Once the rice is creamy and al dente, stir in cooked chicken pieces.', 'Mix in grated Parmesan cheese and season with salt and pepper.', 'Garnish with fresh parsley and serve hot.']}}
+2025-11-27 13:52:55,995 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep it warm.', 'In a large skillet, heat olive oil and sauté chopped onions until translucent.', 'Add minced garlic and cook for another minute.', 'Stir in Arborio rice and toast for 2 minutes until slightly translucent.', 'Pour in white wine and stir until absorbed.', 'Add warm chicken broth one ladle at a time, stirring frequently until absorbed.', 'Once the rice is creamy and al dente, stir in cooked chicken pieces.', 'Mix in grated Parmesan cheese and season with salt and pepper.', 'Garnish with fresh parsley and serve hot.']}
+2025-11-27 13:52:55,995 - ai_chef - INFO - User ask action processed successfully in 4785ms
+2025-11-27 13:54:11,340 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:54:11,341 - ai_chef - INFO - determining action: ask
+2025-11-27 13:54:15,017 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['In a large pan, heat olive oil and butter over medium heat.', 'Add chopped onions and cook until translucent.', 'Stir in minced garlic and cook for about 1 minute.', 'Add Arborio rice and toast for a few minutes until slightly translucent.', 'Pour in white wine and stir until absorbed.', 'Gradually add chicken broth, one ladle at a time, stirring continuously until absorbed.', 'In a separate pan, cook diced chicken until browned and cooked through.', 'Add the cooked chicken to the risotto.', 'Stir in grated Parmesan cheese and season with salt and pepper.', 'Garnish with fresh parsley and serve.']}}
+2025-11-27 13:54:15,018 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Risotto', 'steps': ['In a large pan, heat olive oil and butter over medium heat.', 'Add chopped onions and cook until translucent.', 'Stir in minced garlic and cook for about 1 minute.', 'Add Arborio rice and toast for a few minutes until slightly translucent.', 'Pour in white wine and stir until absorbed.', 'Gradually add chicken broth, one ladle at a time, stirring continuously until absorbed.', 'In a separate pan, cook diced chicken until browned and cooked through.', 'Add the cooked chicken to the risotto.', 'Stir in grated Parmesan cheese and season with salt and pepper.', 'Garnish with fresh parsley and serve.']}
+2025-11-27 13:54:15,018 - ai_chef - INFO - User ask action processed successfully in 3676ms
+2025-11-27 13:56:47,593 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 13:56:47,594 - ai_chef - INFO - determining action: ask
+2025-11-27 13:56:51,176 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Fried Rice', 'steps': ['Cook the rice according to package instructions and let it cool.', 'In a large pan or wok, heat oil over medium-high heat.', 'Add diced chicken and cook until no longer pink.', 'Push the chicken to one side and add chopped onions and garlic, sauté until fragrant.', 'Add mixed vegetables and stir-fry for a few minutes.', 'Add the cooled rice to the pan, breaking up any clumps.', 'Drizzle soy sauce over the rice and mix everything together.', 'Create a well in the center and scramble beaten eggs until cooked, then mix in.', 'Season with salt and pepper, and garnish with green onions before serving.']}}
+2025-11-27 13:56:51,177 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Fried Rice', 'steps': ['Cook the rice according to package instructions and let it cool.', 'In a large pan or wok, heat oil over medium-high heat.', 'Add diced chicken and cook until no longer pink.', 'Push the chicken to one side and add chopped onions and garlic, sauté until fragrant.', 'Add mixed vegetables and stir-fry for a few minutes.', 'Add the cooled rice to the pan, breaking up any clumps.', 'Drizzle soy sauce over the rice and mix everything together.', 'Create a well in the center and scramble beaten eggs until cooked, then mix in.', 'Season with salt and pepper, and garnish with green onions before serving.']}
+2025-11-27 13:56:51,177 - ai_chef - INFO - User ask action processed successfully in 3582ms
+2025-11-27 14:00:53,807 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 14:00:53,822 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 14:16:12,104 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 14:16:12,509 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 14:16:12,516 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 14:16:47,528 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 14:16:47,528 - ai_chef - INFO - determining action: ask
+2025-11-27 14:16:51,424 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Nuggets', 'steps': ['Preheat the oven to 400°F (200°C).', 'Cut chicken breasts into bite-sized pieces.', 'In a bowl, mix flour, salt, and pepper.', 'In another bowl, whisk eggs.', 'In a third bowl, mix breadcrumbs with your choice of spices.', 'Dip each chicken piece in flour, then in eggs, and finally coat with breadcrumbs.', 'Place the coated chicken pieces on a baking sheet.', 'Spray lightly with cooking oil.', 'Bake for 15-20 minutes or until golden brown and cooked through.', 'Serve with dipping sauce.']}}
+2025-11-27 14:16:51,424 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Nuggets', 'steps': ['Preheat the oven to 400°F (200°C).', 'Cut chicken breasts into bite-sized pieces.', 'In a bowl, mix flour, salt, and pepper.', 'In another bowl, whisk eggs.', 'In a third bowl, mix breadcrumbs with your choice of spices.', 'Dip each chicken piece in flour, then in eggs, and finally coat with breadcrumbs.', 'Place the coated chicken pieces on a baking sheet.', 'Spray lightly with cooking oil.', 'Bake for 15-20 minutes or until golden brown and cooked through.', 'Serve with dipping sauce.']}
+2025-11-27 14:16:51,425 - ai_chef - INFO - User ask action processed successfully in 3895ms
+2025-11-27 14:19:48,464 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 14:19:48,469 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 14:20:06,412 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 14:20:06,813 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 14:20:06,819 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 14:21:13,878 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 14:21:13,879 - ai_chef - INFO - determining action: ask
+2025-11-27 14:21:18,946 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep it warm.', 'In a large skillet, heat olive oil and sauté chopped onions until translucent.', 'Add minced garlic and cook for 1 minute.', 'Stir in Arborio rice and cook for 2-3 minutes until lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring frequently until each is absorbed before adding the next.', 'After about 15 minutes, add cooked, diced chicken and continue to add broth until rice is creamy and al dente.', 'Stir in grated Parmesan cheese and season with salt and pepper to taste.', 'Garnish with fresh parsley and serve immediately.']}}
+2025-11-27 14:21:18,946 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep it warm.', 'In a large skillet, heat olive oil and sauté chopped onions until translucent.', 'Add minced garlic and cook for 1 minute.', 'Stir in Arborio rice and cook for 2-3 minutes until lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring frequently until each is absorbed before adding the next.', 'After about 15 minutes, add cooked, diced chicken and continue to add broth until rice is creamy and al dente.', 'Stir in grated Parmesan cheese and season with salt and pepper to taste.', 'Garnish with fresh parsley and serve immediately.']}
+2025-11-27 14:21:18,947 - ai_chef - INFO - User ask action processed successfully in 5067ms
+2025-11-27 15:17:08,319 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 15:17:08,319 - ai_chef - INFO - determining action: ask
+2025-11-27 15:17:12,635 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Mushroom Risotto', 'steps': ['Heat broth in a pot and keep warm.', 'In a separate pan, melt butter and sauté onions until translucent.', 'Add minced garlic and sliced mushrooms, cooking until mushrooms are tender.', 'Stir in Arborio rice and cook for 1-2 minutes until lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm broth, one ladle at a time, stirring frequently until absorbed.', 'Continue adding broth until rice is creamy and al dente.', 'Stir in grated Parmesan cheese and season with salt and pepper.', 'Garnish with fresh parsley and serve immediately.']}}
+2025-11-27 15:17:12,635 - ai_chef - INFO - Recipe added to storage: {'meal': 'Mushroom Risotto', 'steps': ['Heat broth in a pot and keep warm.', 'In a separate pan, melt butter and sauté onions until translucent.', 'Add minced garlic and sliced mushrooms, cooking until mushrooms are tender.', 'Stir in Arborio rice and cook for 1-2 minutes until lightly toasted.', 'Pour in white wine and stir until absorbed.', 'Gradually add warm broth, one ladle at a time, stirring frequently until absorbed.', 'Continue adding broth until rice is creamy and al dente.', 'Stir in grated Parmesan cheese and season with salt and pepper.', 'Garnish with fresh parsley and serve immediately.']}
+2025-11-27 15:17:12,637 - ai_chef - INFO - User ask action processed successfully in 4315ms
+2025-11-27 15:17:28,767 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 15:17:29,202 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 15:17:29,208 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 15:17:55,141 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 15:17:55,142 - ai_chef - INFO - determining action: ask
+2025-11-27 15:17:59,341 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a large skillet, heat olive oil and butter over medium heat.', 'Add chopped onion and cook until translucent.', 'Stir in minced garlic and cook for another minute.', 'Add Arborio rice and toast for 1-2 minutes, stirring frequently.', 'Pour in white wine and cook until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring frequently until absorbed.', 'Once the rice is creamy and al dente, stir in cooked chicken and peas.', 'Add grated Parmesan cheese and season with salt and pepper to taste.', 'Serve warm, garnished with parsley if desired.']}}
+2025-11-27 15:17:59,341 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Risotto', 'steps': ['Heat chicken broth in a saucepan and keep warm.', 'In a large skillet, heat olive oil and butter over medium heat.', 'Add chopped onion and cook until translucent.', 'Stir in minced garlic and cook for another minute.', 'Add Arborio rice and toast for 1-2 minutes, stirring frequently.', 'Pour in white wine and cook until absorbed.', 'Gradually add warm chicken broth, one ladle at a time, stirring frequently until absorbed.', 'Once the rice is creamy and al dente, stir in cooked chicken and peas.', 'Add grated Parmesan cheese and season with salt and pepper to taste.', 'Serve warm, garnished with parsley if desired.']}
+2025-11-27 15:17:59,341 - ai_chef - INFO - User ask action processed successfully in 4198ms
+2025-11-27 15:59:16,450 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 15:59:16,452 - ai_chef - INFO - determining action: ask
+2025-11-27 15:59:20,328 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Spaghetti', 'steps': ['Boil a large pot of salted water.', 'Add spaghetti and cook according to package instructions until al dente.', 'While the pasta cooks, heat olive oil in a pan over medium heat.', 'Add minced garlic and sauté until fragrant.', 'Add crushed tomatoes, salt, and pepper to the pan and let simmer for about 10 minutes.', 'Drain the spaghetti and add it to the sauce in the pan.', 'Toss to combine and heat through.', 'Serve with grated Parmesan cheese and fresh basil if desired.']}}
+2025-11-27 15:59:20,329 - ai_chef - INFO - Recipe added to storage: {'meal': 'Spaghetti', 'steps': ['Boil a large pot of salted water.', 'Add spaghetti and cook according to package instructions until al dente.', 'While the pasta cooks, heat olive oil in a pan over medium heat.', 'Add minced garlic and sauté until fragrant.', 'Add crushed tomatoes, salt, and pepper to the pan and let simmer for about 10 minutes.', 'Drain the spaghetti and add it to the sauce in the pan.', 'Toss to combine and heat through.', 'Serve with grated Parmesan cheese and fresh basil if desired.']}
+2025-11-27 15:59:20,330 - ai_chef - INFO - User ask action processed successfully in 3876ms
+2025-11-27 23:23:44,491 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 23:23:44,492 - ai_chef - INFO - determining action: ask
+2025-11-27 23:23:48,127 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 375°F (190°C).', 'Pound chicken breasts to an even thickness.', 'Season chicken with salt and pepper.', 'Dredge chicken in flour, then dip in beaten eggs, and coat with breadcrumbs.', 'Heat olive oil in a skillet over medium heat.', 'Cook chicken in the skillet until golden brown, about 3-4 minutes per side.', 'Transfer chicken to a baking dish.', 'Top each piece of chicken with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes, until cheese is melted and chicken is cooked through.', 'Garnish with fresh basil and serve.']}}
+2025-11-27 23:23:48,128 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 375°F (190°C).', 'Pound chicken breasts to an even thickness.', 'Season chicken with salt and pepper.', 'Dredge chicken in flour, then dip in beaten eggs, and coat with breadcrumbs.', 'Heat olive oil in a skillet over medium heat.', 'Cook chicken in the skillet until golden brown, about 3-4 minutes per side.', 'Transfer chicken to a baking dish.', 'Top each piece of chicken with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes, until cheese is melted and chicken is cooked through.', 'Garnish with fresh basil and serve.']}
+2025-11-27 23:23:48,128 - ai_chef - INFO - User ask action processed successfully in 3634ms
+2025-11-27 23:24:23,458 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 23:24:23,458 - ai_chef - INFO - determining action: ask
+2025-11-27 23:24:27,646 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 400°F (200°C).', 'Pound chicken breasts to an even thickness.', 'Season chicken with salt and pepper.', 'Dredge chicken in flour, then dip in beaten eggs, and finally coat with breadcrumbs.', 'Heat olive oil in a skillet over medium heat and cook the chicken until golden brown on both sides.', 'Place the browned chicken in a baking dish and top each piece with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes, until chicken is cooked through and cheese is melted.', 'Garnish with fresh basil and serve.']}}
+2025-11-27 23:24:27,646 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 400°F (200°C).', 'Pound chicken breasts to an even thickness.', 'Season chicken with salt and pepper.', 'Dredge chicken in flour, then dip in beaten eggs, and finally coat with breadcrumbs.', 'Heat olive oil in a skillet over medium heat and cook the chicken until golden brown on both sides.', 'Place the browned chicken in a baking dish and top each piece with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes, until chicken is cooked through and cheese is melted.', 'Garnish with fresh basil and serve.']}
+2025-11-27 23:24:27,646 - ai_chef - INFO - User ask action processed successfully in 4187ms
+2025-11-27 23:25:18,546 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 23:25:18,546 - ai_chef - INFO - determining action: ask
+2025-11-27 23:25:22,532 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 375°F (190°C).', 'Pound the chicken breasts to an even thickness.', 'Season the chicken with salt and pepper.', 'Dredge each chicken breast in flour, shaking off excess.', 'Dip the chicken in beaten eggs.', 'Coat the chicken with breadcrumbs, pressing to adhere.', 'In a skillet, heat olive oil over medium heat.', 'Cook the chicken for 4-5 minutes on each side until golden brown.', 'Transfer the chicken to a baking dish.', 'Top each piece of chicken with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes until the cheese is bubbly.', 'Garnish with fresh basil and serve.']}}
+2025-11-27 23:25:22,532 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 375°F (190°C).', 'Pound the chicken breasts to an even thickness.', 'Season the chicken with salt and pepper.', 'Dredge each chicken breast in flour, shaking off excess.', 'Dip the chicken in beaten eggs.', 'Coat the chicken with breadcrumbs, pressing to adhere.', 'In a skillet, heat olive oil over medium heat.', 'Cook the chicken for 4-5 minutes on each side until golden brown.', 'Transfer the chicken to a baking dish.', 'Top each piece of chicken with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes until the cheese is bubbly.', 'Garnish with fresh basil and serve.']}
+2025-11-27 23:25:22,532 - ai_chef - INFO - User ask action processed successfully in 3985ms
+2025-11-27 23:26:12,608 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 23:26:13,050 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-27 23:26:13,059 - werkzeug - WARNING -  * Debugger is active!
+2025-11-27 23:26:35,144 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-27 23:26:35,144 - ai_chef - INFO - determining action: ask
+2025-11-27 23:26:39,442 - ai_chef - INFO - response: {'ok': True, 'recipe': {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 375°F (190°C).', 'Season chicken breasts with salt and pepper.', 'Dredge each chicken breast in flour, then dip in beaten egg, and finally coat in breadcrumbs.', 'Heat olive oil in a skillet over medium heat and cook the breaded chicken until golden brown on both sides.', 'Transfer the chicken to a baking dish and top each piece with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes until the cheese is bubbly and golden.', 'Garnish with fresh basil and serve with pasta or a side salad.']}}
+2025-11-27 23:26:39,442 - ai_chef - INFO - Recipe added to storage: {'meal': 'Chicken Parmesan', 'steps': ['Preheat the oven to 375°F (190°C).', 'Season chicken breasts with salt and pepper.', 'Dredge each chicken breast in flour, then dip in beaten egg, and finally coat in breadcrumbs.', 'Heat olive oil in a skillet over medium heat and cook the breaded chicken until golden brown on both sides.', 'Transfer the chicken to a baking dish and top each piece with marinara sauce and mozzarella cheese.', 'Bake in the preheated oven for 20-25 minutes until the cheese is bubbly and golden.', 'Garnish with fresh basil and serve with pasta or a side salad.']}
+2025-11-27 23:26:39,443 - ai_chef - INFO - User ask action processed successfully in 4297ms

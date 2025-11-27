@@ -1,0 +1,68 @@
+2025-11-26 11:23:56,087 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 11:23:56,565 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 11:23:56,572 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 12:10:12,607 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 12:10:12,614 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 12:12:04,892 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 12:12:04,907 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 12:12:25,509 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 12:12:25,516 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 12:16:51,997 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 12:16:52,449 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 12:16:52,458 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 12:17:54,043 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 12:17:54,043 - ai_chef - INFO - determining action: ask
+2025-11-26 12:17:59,647 - ai_chef - INFO - User ask action processed successfully in 5603ms
+2025-11-26 12:19:18,697 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 12:19:18,705 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 12:19:29,241 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 12:19:29,248 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 14:10:14,296 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 14:10:14,687 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 14:10:14,693 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:24:16,636 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:24:16,653 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:25:06,394 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:25:06,394 - ai_chef - INFO - determining action: ask
+2025-11-26 15:25:10,614 - ai_chef - INFO - User ask action processed successfully in 4219ms
+2025-11-26 15:25:44,423 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:25:44,424 - ai_chef - INFO - determining action: ask
+2025-11-26 15:25:48,019 - ai_chef - INFO - User ask action processed successfully in 3594ms
+2025-11-26 15:32:12,424 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:32:12,837 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:32:12,843 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:32:56,517 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:32:56,523 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:34:32,593 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:34:32,593 - ai_chef - INFO - determining action: ask
+2025-11-26 15:34:38,542 - ai_chef - INFO - User ask action processed successfully in 5949ms
+2025-11-26 15:35:22,496 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:35:22,496 - ai_chef - INFO - determining action: ask
+2025-11-26 15:35:26,736 - ai_chef - INFO - User ask action processed successfully in 4239ms
+2025-11-26 15:39:31,818 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:39:31,832 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:39:44,388 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:39:44,395 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:40:21,413 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:40:21,413 - ai_chef - INFO - determining action: ask
+2025-11-26 15:40:27,225 - ai_chef - INFO - User ask action processed successfully in 5811ms
+2025-11-26 15:41:40,905 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:41:40,919 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:41:51,278 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:41:51,278 - ai_chef - INFO - determining action: ask
+2025-11-26 15:41:54,850 - ai_chef - INFO - User ask action processed successfully in 3572ms
+2025-11-26 15:44:00,859 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:44:00,860 - ai_chef - INFO - determining action: ask
+2025-11-26 15:44:04,056 - ai_chef - INFO - User ask action processed successfully in 3195ms
+2025-11-26 15:45:55,531 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:45:55,543 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:46:39,255 - ai_chef - INFO - Starting AI Chef server on port 5000
+2025-11-26 15:46:39,261 - werkzeug - WARNING -  * Debugger is active!
+2025-11-26 15:46:39,268 - ai_chef - INFO - Streaming recipes : 0
+2025-11-26 15:46:39,269 - ai_chef - INFO - Streaming recipes : 0
+2025-11-26 15:46:49,222 - ai_chef - INFO - Streaming recipes : 0
+2025-11-26 15:47:27,792 - ai_chef - INFO - Streaming recipes : 0
+2025-11-26 15:47:40,687 - ai_chef - INFO - received request with action ask from user: 6850176926
+2025-11-26 15:47:40,687 - ai_chef - INFO - determining action: ask
+2025-11-26 15:47:45,246 - ai_chef - INFO - User ask action processed successfully in 4559ms
+2025-11-26 15:47:55,759 - ai_chef - INFO - Streaming recipes : 0

@@ -2,6 +2,7 @@ from flask import Blueprint, request, jsonify
 from werkzeug.wrappers import response
 from config.logging import logger
 from services.ai_chef import AIChef
+from tickets import RecipeStorage
 import time
 
 
@@ -48,8 +49,29 @@ def ask():
             ), 400
         # Add timing information
         duration_ms = int((time.time() - start_time) * 1000)
-        if "data" in response:
-            response["data"]["processing_time_ms"] = duration_ms
+
+        # add recipe to storage
+        logger.info(f"response: {response}")
+
+        recipes_data = response.get("recipe")
+
+        if isinstance(recipes_data, dict):
+            # single recipe
+            meal = recipes_data["meal"]
+            steps = recipes_data["steps"]
+            RecipeStorage.add_recipe(meal, steps)
+            logger.info(f"Recipe added to storage: {recipes_data}")
+
+        elif isinstance(recipes_data, list):
+            # multiple recipes
+            for recipe in recipes_data:
+                meal = recipe["meal"]
+                steps = recipe["steps"]
+                RecipeStorage.add_recipe(meal, steps)
+                logger.info(f"Recipe added to storage: {recipe}")
+
+        else:
+            logger.error(f"Unexpected recipe format: {type(recipes_data)}")
 
         logger.info(
             f"User {action} action processed successfully in {duration_ms}ms",

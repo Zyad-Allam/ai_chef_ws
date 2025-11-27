@@ -1,15 +1,17 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, Response, stream_with_context
 from config.logging import logger
 from config.settings import settings
 from routes import ask_routes
-
-app = Flask(__name__)
+from flask_cors import CORS
+from tickets import RecipeStorage
+import time
+import json
 
 
 def create_app():
     """Create and configure Flask application"""
-
     app = Flask(__name__)
+    CORS(app, origins=["http://localhost:3000"])
 
     # Configure Flask settings
 
@@ -51,6 +53,20 @@ def create_app():
     def internal_error(error):
         logger.error(f"Internal server error: {error}")
         return jsonify({"error": "Internal server error", "status": 500}), 500
+
+    # app.py
+
+    @app.route("/stream-recipes")
+    def stream_recipes():
+        def event_stream():
+            RECIPE_EVENTS = RecipeStorage.events
+            while True:
+                recipe = RECIPE_EVENTS.get()  # waits for new recipe
+                yield f"data: {json.dumps(recipe)}\n\n"
+
+        return Response(
+            stream_with_context(event_stream()), mimetype="text/event-stream"
+        )
 
     return app
 
